@@ -115,18 +115,6 @@ h5 {
 	-webkit-animation-play-state: running;
 }
 
-.section {
-	position: relative;
-	background-image: url(../images/backgrounds/section-light-bg.png);
-	background-position: bottom center;
-	background-repeat: repeat-x;
-	overflow: hidden;
-}
-.section-inverse-color {
-	background-image: url(../images/backgrounds/section-dark-bg.png);
-	background-color: #222222;
-	color: #cccccc;
-}
 .black-background-overlay,
 .black-dot-background-overlay,
 .accent-background-overlay {
@@ -157,15 +145,8 @@ h5 {
 	background-attachment: fixed;
 	background-position: top center;
 }
-.video-background-container {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	height: 100%;
-	width: 100%;
-}
+
+
 .container {
 	position: relative;
 }
