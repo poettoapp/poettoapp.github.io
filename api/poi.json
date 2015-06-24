@@ -1,0 +1,552 @@
+[
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.195348,
+            "longitude": 9.159371
+        },
+        "name": "Le Palmette",
+        "objectId": 1
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.204533,
+            "longitude": 9.163968
+        },
+        "name": "Palm Beach",
+        "objectId": 2
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.209107,
+            "longitude": 9.168683
+        },
+        "name": "Il Nilo",
+        "objectId": 3
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.209509,
+            "longitude": 9.169153
+        },
+        "name": "Calypso",
+        "objectId": 4
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.213553,
+            "longitude": 9.174932
+        },
+        "name": "Chiosco #6",
+        "objectId": 5
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.1963,
+            "longitude": 9.1595
+        },
+        "name": "La Sella Del Diavolo",
+        "objectId": 6
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.201278,
+            "longitude": 9.161561
+        },
+        "name": "Il Lido",
+        "objectId": 7
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.203033,
+            "longitude": 9.162901
+        },
+        "name": "Malibù",
+        "objectId": 8
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.199791,
+            "longitude": 9.16065
+        },
+        "name": "Ufficiali Marina Militare",
+        "objectId": 9
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.202602,
+            "longitude": 9.162818
+        },
+        "name": "Marina Militare",
+        "objectId": 10
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.203765,
+            "longitude": 9.1634
+        },
+        "name": "Chiosco #1  ",
+        "objectId": 11
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.204628,
+            "longitude": 9.164922
+        },
+        "name": "Stabilimento #2",
+        "objectId": 12
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.20552,
+            "longitude": 9.164631
+        },
+        "name": "Lanterna Rossa",
+        "objectId": 13
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.20556,
+            "longitude": 9.165773
+        },
+        "name": "Stabilimento #3",
+        "objectId": 14
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.20634,
+            "longitude": 9.165476
+        },
+        "name": "Twist",
+        "objectId": 15
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.206662,
+            "longitude": 9.165897
+        },
+        "name": "Aeronautica Militare",
+        "objectId": 16
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.20801,
+            "longitude": 9.167331
+        },
+        "name": "Chiosco #4",
+        "objectId": 17
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.208588,
+            "longitude": 9.16804
+        },
+        "name": "Il Miraggio",
+        "objectId": 18
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.213115,
+            "longitude": 9.174189
+        },
+        "name": "Chiosco #5",
+        "objectId": 19
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.213883,
+            "longitude": 9.175576
+        },
+        "name": "Chiosco #7",
+        "objectId": 20
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.214824,
+            "longitude": 9.17727
+        },
+        "name": "Capolinea",
+        "objectId": 21
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.215919,
+            "longitude": 9.179314
+        },
+        "name": "Ottagono",
+        "objectId": 22
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.216952,
+            "longitude": 9.181149
+        },
+        "name": "Golden Beach",
+        "objectId": 23
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.217716,
+            "longitude": 9.182466
+        },
+        "name": "Stabilimento #8",
+        "objectId": 24
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.218682,
+            "longitude": 9.184386
+        },
+        "name": "Alta Marea",
+        "objectId": 25
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.21969,
+            "longitude": 9.186588
+        },
+        "name": "Vigili Del Fuoco",
+        "objectId": 26
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.220105,
+            "longitude": 9.187271
+        },
+        "name": "Corpo Nazionale Vigili Del Fuoco",
+        "objectId": 27
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.221063,
+            "longitude": 9.189489
+        },
+        "name": "Bikini",
+        "objectId": 28
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.221677,
+            "longitude": 9.190894
+        },
+        "name": "Stabilimento #9",
+        "objectId": 29
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.222337,
+            "longitude": 9.192717
+        },
+        "name": "Stabilimento #10",
+        "objectId": 30
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.223001,
+            "longitude": 9.195221
+        },
+        "name": "La Marinella",
+        "objectId": 31
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.223847,
+            "longitude": 9.197871
+        },
+        "name": "Skipper",
+        "objectId": 32
+    },
+    {
+        "active": true,
+        "categoryService": 13,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.225933,
+            "longitude": 9.204515
+        },
+        "name": "Frontemare",
+        "objectId": 33
+    },
+    {
+        "active": true,
+        "categoryService": 8,
+        "categoryType": 8,
+        "location": {
+            "latitude": 39.218723,
+            "longitude": 9.183736
+        },
+        "name": "Brave",
+        "objectId": 34
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.204285,
+            "longitude": 9.163676
+        },
+        "name": "Emerson",
+        "objectId": 35
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.194668,
+            "longitude": 9.158952
+        },
+        "name": "Otium",
+        "objectId": 36
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.198376,
+            "longitude": 9.160201
+        },
+        "name": "D'Aquila",
+        "objectId": 37
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.210187,
+            "longitude": 9.17001
+        },
+        "name": "Corto Maltese",
+        "objectId": 38
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.210711,
+            "longitude": 9.170671
+        },
+        "name": "Fico d'India",
+        "objectId": 39
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.218003,
+            "longitude": 9.18328
+        },
+        "name": "Polizia Di Stato",
+        "objectId": 40
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "location": {
+            "latitude": 39.220364,
+            "longitude": 9.187905
+        },
+        "name": "Guardia Di Finanza",
+        "objectId": 41
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.224559,
+            "longitude": 9.200011
+        },
+        "name": "Lido Mediterraneo",
+        "objectId": 42
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.225269,
+            "longitude": 9.202456
+        },
+        "name": "Stabilimento #11",
+        "objectId": 43
+    },
+    {
+        "active": true,
+        "categoryService": 256,
+        "categoryType": 256,
+        "location": {
+            "latitude": 39.225889,
+            "longitude": 9.203228
+        },
+        "name": "Campo da Basket",
+        "objectId": 44
+    },
+    {
+        "active": true,
+        "categoryService": 9,
+        "categoryType": 8,
+        "location": {
+            "latitude": 39.226441,
+            "longitude": 9.205374
+        },
+        "name": "Alma Beach Studios",
+        "objectId": 45
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.226577,
+            "longitude": 9.206415
+        },
+        "name": "Stabilimento #12",
+        "objectId": 46
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.227212,
+            "longitude": 9.208799
+        },
+        "name": "Stabilimento #13",
+        "objectId": 47
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.227724,
+            "longitude": 9.21087
+        },
+        "name": "Stabilimento #14",
+        "objectId": 48
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.228173,
+            "longitude": 9.213115
+        },
+        "name": "Le Due Torri",
+        "objectId": 49
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "location": {
+            "latitude": 39.228793,
+            "longitude": 9.216073
+        },
+        "name": "I Pini",
+        "objectId": 50
+    }
+]

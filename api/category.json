@@ -1,0 +1,115 @@
+[
+    {
+        "name": "private_beach_resort",
+        "desc":{
+            "it":"Stabilimento balneare privato",
+            "en":"Private beach resort"
+        },
+        "objectId": 1,
+        "type": "building",
+        "value": 2
+    },
+    {
+        "name": "kiosk",
+        "objectId": 2,
+        "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
+        "type": "building",
+        "value": 4
+    },
+    {
+        "name": "disco",
+        "objectId": 3,
+        "type": "service",
+        "value": 8
+    },
+    {
+        "name": "toilet",
+        "desc":{
+            "it":"Bagno",
+            "en":"Toilet"
+        },
+        "objectId": 4,
+        "type": "service",
+        "value": 16
+    },
+    {
+        "name": "parking",
+        "desc":{
+            "it":"Parcheggio",
+            "en":"Parking"
+        },
+        "objectId": 5,
+        "type": "service",
+        "value": 32
+    },
+    {
+        "name": "hospital",
+        "desc":{
+            "it":"Ospedale",
+            "en":"Hospital"
+        },
+        "objectId": 6,
+        "type": "building",
+        "value": 64
+    },
+    {
+        "name": "fuel",
+        "desc":{
+            "it":"Distributore di benzina",
+            "en":"Gas Station"
+        },
+        "objectId": 7,
+        "type": "service",
+        "value": 128
+    },
+    {
+        "name": "sport",
+        "objectId": 8,
+        "type": "service",
+        "value": 256
+    },
+    {
+        "name": "beach_resort",
+        "objectId": 9,
+        "type": "building",
+        "value": 1
+    },
+    {
+        "name": "garden",
+        "objectId": 10,
+        "type": "service",
+        "value": 512
+    },
+    {
+        "name": "mtb",
+        "objectId": 11,
+        "type": "service",
+        "value": 8192
+    },
+    {
+        "name": "dog",
+        "objectId": 12,
+        "type": "service",
+        "value": 4096
+    },
+    {
+        "name": "wifi",
+        "desc":{
+            "it":"Area Wi-Fi",
+            "en":"Wi-Fi Area"
+        },
+        "objectId": 13,
+        "type": "service",
+        "value": 2048
+    },
+    {
+        "name": "bus",
+        "desc":{
+            "it":"Fermata Autobus",
+            "en":"Bus Stop"
+        },
+        "objectId": 14,
+        "type": "service",
+        "value": 1024
+    }
+]
