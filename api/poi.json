@@ -548,5 +548,16 @@
         },
         "name": "I Pini",
         "objectId": 50
+    },
+        {
+        "active": true,
+        "categoryService": 9,
+        "categoryType": 8,
+        "location": {
+            "latitude": 39.226681,
+            "longitude": 9.20560
+        },
+        "name": "Kingka",
+        "objectId": 51
     }
 ]
