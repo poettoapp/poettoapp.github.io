@@ -559,5 +559,16 @@
         },
         "name": "Kingka",
         "objectId": 51
+    },
+    {
+        "active": true,
+        "categoryService": 9,
+        "categoryType": 8,
+        "location": {
+            "latitude": 39.220934,
+            "longitude": 9.188293
+        },
+        "name": "Oasi dei 7vizi",
+        "objectId": 52
     }
 ]
