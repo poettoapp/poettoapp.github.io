@@ -11,6 +11,10 @@
     },
     {
         "name": "kiosk",
+        "desc":{
+            "it":"Chiosco",
+            "en":"Kiosk"
+        },
         "objectId": 2,
         "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
         "type": "building",
@@ -18,6 +22,10 @@
     },
     {
         "name": "disco",
+        "desc":{
+            "it":"Discoteca",
+            "en":"Disco"
+        },
         "objectId": 3,
         "type": "service",
         "value": 8
@@ -64,30 +72,50 @@
     },
     {
         "name": "sport",
+        "desc":{
+            "it":"Sport",
+            "en":"Sport"
+        },
         "objectId": 8,
         "type": "service",
         "value": 256
     },
     {
         "name": "beach_resort",
+        "desc":{
+            "it":"Beach Resort",
+            "en":"Beach Resort"
+        },
         "objectId": 9,
         "type": "building",
         "value": 1
     },
     {
         "name": "garden",
+        "desc":{
+            "it":"Parco",
+            "en":"Park"
+        },
         "objectId": 10,
         "type": "service",
         "value": 512
     },
     {
         "name": "mtb",
+        "desc":{
+            "it":"Mountain Bike",
+            "en":"Mountain Bike"
+        },
         "objectId": 11,
         "type": "service",
         "value": 8192
     },
     {
         "name": "dog",
+        "desc":{
+            "it":"Area Cani",
+            "en":"Dog Area"
+        },
         "objectId": 12,
         "type": "service",
         "value": 4096
