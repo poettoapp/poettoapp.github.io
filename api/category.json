@@ -6,6 +6,7 @@
             "en":"Private beach resort"
         },
         "objectId": 1,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "building",
         "value": 2
     },
@@ -16,7 +17,7 @@
             "en":"Kiosk"
         },
         "objectId": 2,
-        "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "building",
         "value": 4
     },
@@ -27,6 +28,7 @@
             "en":"Disco"
         },
         "objectId": 3,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 8
     },
@@ -37,6 +39,7 @@
             "en":"Toilet"
         },
         "objectId": 4,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 16
     },
@@ -47,6 +50,7 @@
             "en":"Parking"
         },
         "objectId": 5,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 32
     },
@@ -57,6 +61,7 @@
             "en":"Hospital"
         },
         "objectId": 6,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "building",
         "value": 64
     },
@@ -67,6 +72,7 @@
             "en":"Gas Station"
         },
         "objectId": 7,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 128
     },
@@ -77,6 +83,7 @@
             "en":"Sport"
         },
         "objectId": 8,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 256
     },
@@ -87,6 +94,7 @@
             "en":"Beach Resort"
         },
         "objectId": 9,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "building",
         "value": 1
     },
@@ -97,6 +105,7 @@
             "en":"Park"
         },
         "objectId": 10,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 512
     },
@@ -107,6 +116,7 @@
             "en":"Mountain Bike"
         },
         "objectId": 11,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 8192
     },
@@ -117,6 +127,7 @@
             "en":"Dog Area"
         },
         "objectId": 12,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 4096
     },
@@ -127,6 +138,7 @@
             "en":"Wi-Fi Area"
         },
         "objectId": 13,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 2048
     },
@@ -137,6 +149,7 @@
             "en":"Bus Stop"
         },
         "objectId": 14,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 1024
     }
