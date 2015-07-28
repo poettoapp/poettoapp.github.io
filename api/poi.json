@@ -9,6 +9,7 @@
         },
         "name": "Le Palmette",
         "instagram":"LePalmette",
+        "description": "Chiosco Le Palmette - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 1
     },
     {
@@ -21,6 +22,7 @@
         },
         "name": "Palm Beach",
         "instagram":"PalmBeachPoetto",
+        "description": "Chiosco Palm Beach - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 2
     },
     {
@@ -33,6 +35,7 @@
         },
         "name": "Il Nilo",
         "instagram":"IlNiloPoetto",
+        "description": "Chiosco Il Nilo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 3
     },
     {
@@ -45,6 +48,7 @@
         },
         "name": "Calypso",
         "instagram":"CalypsoPoetto",
+        "description": "Chiosco Calypso - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 4
     },
     {
@@ -56,6 +60,7 @@
             "longitude": 9.174932
         },
         "name": "Chiosco #6",
+        "description": "Chiosco #6 - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"",
         "objectId": 5
     },
@@ -69,6 +74,7 @@
         },
         "name": "La Sella Del Diavolo",
         "instagram":"LaSellaDelDiavoloPoetto",
+        "description": "Chiosco La Sella Del Diavolo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 6
     },
     {
@@ -81,6 +87,7 @@
         },
         "name": "Il Lido",
         "instagram":"IlLidoPoetto",
+        "description": "Stabilimento Il Lido - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 7
     },
     {
@@ -93,6 +100,7 @@
         },
         "name": "Malibù",
         "instagram":"MalibuPoetto",
+        "description": "Chiosco Malibù - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 8
     },
     {
@@ -104,6 +112,7 @@
             "longitude": 9.16065
         },
         "name": "Ufficiali Marina Militare",
+        "description": "Stabilimento privato Ufficiali Marina Militare",
         "instagram":"",
         "objectId": 9
     },
@@ -116,6 +125,7 @@
             "longitude": 9.162818
         },
         "name": "Marina Militare",
+        "description": "Stabilimento privato Marina Militare",
         "instagram":"",
         "objectId": 10
     },
@@ -128,6 +138,7 @@
             "longitude": 9.1634
         },
         "name": "Chiosco #1  ",
+        "description": "",
         "instagram":"",
         "objectId": 11
     },
@@ -140,6 +151,7 @@
             "longitude": 9.164922
         },
         "name": "Stabilimento #2",
+        "description": "",
         "instagram":"",
         "objectId": 12
     },
@@ -153,6 +165,7 @@
         },
         "name": "Lanterna Rossa",
         "instagram":"LanternaRossaPoetto",
+        "description": "Chiosco La Lanterna Rossa - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 13
     },
     {
@@ -164,6 +177,7 @@
             "longitude": 9.165773
         },
         "name": "Stabilimento #3",
+        "description": "",
         "instagram":"",
         "objectId": 14
     },
@@ -177,6 +191,7 @@
         },
         "name": "Twist",
         "instagram":"TwistPoetto",
+        "description": "Chiosco Twist - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 15
     },
     {
@@ -188,6 +203,7 @@
             "longitude": 9.165897
         },
         "name": "Aeronautica Militare",
+        "description": "Stabilimento Privato Aeronautica Militare",
         "instagram":"",
         "objectId": 16
     },
@@ -200,6 +216,7 @@
             "longitude": 9.167331
         },
         "name": "Chiosco #4",
+        "description": "Chiosco #4 - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"",
         "objectId": 17
     },
@@ -213,6 +230,7 @@
         },
         "name": "Il Miraggio",
         "instagram":"IlMiraggioPoetto",
+        "description": "Chiosco Il Miraggio - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 18
     },
     {
@@ -225,6 +243,7 @@
         },
         "name": "La Dolce Vita",
         "instagram":"LaDolceVitaPoetto",
+        "description": "Chiosco La Dolce Vita - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 19
     },
     {
@@ -237,6 +256,7 @@
         },
         "name": "Aramacao",
         "instagram":"AramacaoPoetto",
+        "description": "Chiosco Aramacao - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 20
     },
     {
@@ -249,6 +269,7 @@
         },
         "name": "Capolinea",
         "instagram":"CapolineaPoetto",
+        "description": "Chiosco Capolinea - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 21
     },
     {
@@ -261,6 +282,7 @@
         },
         "name": "Ottagono",
         "instagram":"OttagonoPoetto",
+        "description": "Stabilimento Ottagono - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 22
     },
     {
@@ -272,6 +294,7 @@
             "longitude": 9.181149
         },
         "name": "Golden Beach",
+        "description": "",
         "instagram":"",
         "objectId": 23
     },
@@ -284,6 +307,7 @@
             "longitude": 9.182466
         },
         "name": "Lido Del Carabiniere",
+        "description": "Stabilimento privato Lido Del Carabiniere",
         "instagram":"",
         "objectId": 24
     },
@@ -296,6 +320,7 @@
             "longitude": 9.184386
         },
         "name": "Alta Marea",
+        "description": "",
         "instagram":"",
         "objectId": 25
     },
@@ -308,6 +333,7 @@
             "longitude": 9.186588
         },
         "name": "Vigili Del Fuoco",
+        "description": "Stabilimento privato Vigili del fuoco",
         "instagram":"",
         "objectId": 26
     },
@@ -320,6 +346,7 @@
             "longitude": 9.187271
         },
         "name": "Corpo Nazionale Vigili Del Fuoco",
+        "description": "Stabilimento privato Vigili del fuoco",
         "instagram":"",
         "objectId": 27
     },
@@ -333,6 +360,7 @@
         },
         "name": "Bikini",
         "instagram":"BikiniPoetto",
+        "description": "Chiosco Bikini - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 28
     },
     {
@@ -345,6 +373,7 @@
         },
         "name": "Sax Beach",
         "instagram":"SaxBeach",
+        "description": "Chiosco Sax Beach - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 29
     },
     {
@@ -357,6 +386,7 @@
         },
         "name": "Marlin Beach Club",
         "instagram":"MarlinBeachClub",
+        "description": "Chiosco Marlin Beach Club - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 30
     },
     {
@@ -369,6 +399,7 @@
         },
         "name": "La Marinella",
         "instagram":"LaMarinella",
+        "description": "Stabilimento La Marinella - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 31
     },
     {
@@ -381,6 +412,7 @@
         },
         "name": "Skipper",
         "instagram":"SkipperPoetto",
+        "description": "Stabilimento Skipper - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 32
     },
     {
@@ -393,6 +425,7 @@
         },
         "name": "Frontemare",
         "instagram":"FronteMare",
+        "description": "Stabilimento Frontemare - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 33
     },
     {
@@ -404,6 +437,7 @@
             "longitude": 9.183736
         },
         "name": "Brave",
+        "description": "",
         "instagram":"",
         "objectId": 34
     },
@@ -417,6 +451,7 @@
         },
         "name": "Emerson",
         "instagram":"EmersonPoetto",
+        "description": "Stabilimento Emerson - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 35
     },
     {
@@ -429,6 +464,7 @@
         },
         "name": "Otium",
         "instagram":"OtiumPoetto",
+        "description": "Chiosco Otium - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 36
     },
     {
@@ -441,6 +477,7 @@
         },
         "name": "D'Aquila",
         "instagram":"DAquilaPoetto",
+        "description": "Stabilimento D'Aquila - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 37
     },
     {
@@ -452,6 +489,7 @@
             "longitude": 9.17001
         },
         "name": "Corto Maltese",
+        "description": "Chiosco Corto Maltese - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"CortoMaltesePoetto",
         "objectId": 38
     },
@@ -464,6 +502,7 @@
             "longitude": 9.170671
         },
         "name": "Fico d'India",
+        "description": "Chiosco Fico d'India - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"FicoDIndiaPoetto",
         "objectId": 39
     },
@@ -475,7 +514,8 @@
             "latitude": 39.218003,
             "longitude": 9.18328
         },
-        "name": "Polizia Di Stato",
+        "name": "Polizia di Stato",
+        "description": "Stabilimento privato Polizia di Stato - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"",
         "objectId": 40
     },
@@ -487,7 +527,8 @@
             "latitude": 39.220364,
             "longitude": 9.187905
         },
-        "name": "Guardia Di Finanza",
+        "name": "Guardia di Finanza",
+        "description": "Stabilimento privato guardia di finanza - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"",
         "objectId": 41
     },
@@ -500,6 +541,7 @@
             "longitude": 9.200011
         },
         "name": "Lido Mediterraneo",
+        "description": "Stabilimento Lido Mediterraneo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"LidoMediterraneoPoetto",
         "objectId": 42
     },
@@ -512,6 +554,7 @@
             "longitude": 9.202456
         },
         "name": "Bay Watch",
+        "description": "",
         "instagram":"",
         "objectId": 43
     },
@@ -524,6 +567,7 @@
             "longitude": 9.203228
         },
         "name": "Campo da Basket",
+        "description": "",
         "instagram":"BasketPoetto",
         "objectId": 44
     },
@@ -536,6 +580,7 @@
             "longitude": 9.205374
         },
         "name": "Alma Beach Studios",
+        "description": "Alma Beach Studios - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"AlmaBeach",
         "objectId": 45
     },
@@ -548,6 +593,7 @@
             "longitude": 9.206415
         },
         "name": "Joyo",
+        "description": "Chiosco Joyo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"JoyoPoetto",
         "objectId": 46
     },
@@ -560,6 +606,7 @@
             "longitude": 9.208799
         },
         "name": "Passaggio a NordOvest",
+        "description": "Chiosco Passaggio a NordOvest - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"NordOvestPoetto",
         "objectId": 47
     },
@@ -572,6 +619,7 @@
             "longitude": 9.21087
         },
         "name": "BlueSky",
+        "description": "Chiosco BlueSky - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"BlueSkyPoetto",
         "objectId": 48
     },
@@ -584,6 +632,7 @@
             "longitude": 9.213115
         },
         "name": "Le Due Torri",
+        "description": "Chiosco Le Due Torri - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"LeDueTorriPoetto",
         "objectId": 49
     },
@@ -596,6 +645,7 @@
             "longitude": 9.216073
         },
         "name": "I Pini",
+        "description": "Chiosco I Pini - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"IPiniPoetto",
         "objectId": 50
     },
@@ -608,6 +658,7 @@
             "longitude": 9.20560
         },
         "name": "Kingka",
+        "description": "Kingka - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"Kingka",
         "objectId": 51
     },
@@ -620,6 +671,7 @@
             "longitude": 9.188293
         },
         "name": "Oasi dei 7vizi",
+        "description": "Oasi dei sette vizi - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"OasiDeiSetteVizi",
         "objectId": 52
     },
@@ -654,6 +706,7 @@
             "longitude": 9.183935
         },
         "name": "Dog Area",
+        "description": "Dog Service - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"DogAreaPoetto",
         "objectId": 55
     },
@@ -765,6 +818,7 @@
             "longitude": 9.159932
         },
         "name": "Spinnaker",
+        "description": "Spinnaker - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "instagram":"SpinnakerPoetto",
         "objectId": 65
     },
