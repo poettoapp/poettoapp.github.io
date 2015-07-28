@@ -110,7 +110,7 @@
         "objectId": 10
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 4,
         "categoryType": 4,
         "location": {
@@ -121,7 +121,7 @@
         "objectId": 11
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 1,
         "categoryType": 1,
         "location": {
@@ -143,7 +143,7 @@
         "objectId": 13
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 1,
         "categoryType": 1,
         "location": {
@@ -205,7 +205,7 @@
             "latitude": 39.213115,
             "longitude": 9.174189
         },
-        "name": "Chiosco #5",
+        "name": "La Dolce Vita",
         "objectId": 19
     },
     {
@@ -216,7 +216,7 @@
             "latitude": 39.213883,
             "longitude": 9.175576
         },
-        "name": "Chiosco #7",
+        "name": "Aramacao",
         "objectId": 20
     },
     {
@@ -242,7 +242,7 @@
         "objectId": 22
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 5,
         "categoryType": 1,
         "location": {
@@ -260,11 +260,11 @@
             "latitude": 39.217716,
             "longitude": 9.182466
         },
-        "name": "Stabilimento #8",
+        "name": "Lido Del Carabiniere",
         "objectId": 24
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 5,
         "categoryType": 1,
         "location": {
@@ -309,24 +309,24 @@
     },
     {
         "active": true,
-        "categoryService": 5,
+        "categoryService": 13,
         "categoryType": 1,
         "location": {
             "latitude": 39.221677,
             "longitude": 9.190894
         },
-        "name": "Stabilimento #9",
+        "name": "Sax Beach",
         "objectId": 29
     },
     {
         "active": true,
-        "categoryService": 5,
+        "categoryService": 13,
         "categoryType": 1,
         "location": {
             "latitude": 39.222337,
             "longitude": 9.192717
         },
-        "name": "Stabilimento #10",
+        "name": "Marlin Beach Club",
         "objectId": 30
     },
     {
@@ -363,7 +363,7 @@
         "objectId": 33
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 8,
         "categoryType": 8,
         "location": {
@@ -462,14 +462,14 @@
         "objectId": 42
     },
     {
-        "active": true,
+        "active": false,
         "categoryService": 5,
         "categoryType": 1,
         "location": {
             "latitude": 39.225269,
             "longitude": 9.202456
         },
-        "name": "Stabilimento #11",
+        "name": "Bay Watch",
         "objectId": 43
     },
     {
@@ -502,18 +502,18 @@
             "latitude": 39.226577,
             "longitude": 9.206415
         },
-        "name": "Stabilimento #12",
+        "name": "Joyo",
         "objectId": 46
     },
     {
         "active": true,
-        "categoryService": 5,
+        "categoryService": 13,
         "categoryType": 1,
         "location": {
             "latitude": 39.227212,
             "longitude": 9.208799
         },
-        "name": "Stabilimento #13",
+        "name": "Passaggio a NordOvest",
         "objectId": 47
     },
     {
@@ -524,7 +524,7 @@
             "latitude": 39.227724,
             "longitude": 9.21087
         },
-        "name": "Stabilimento #14",
+        "name": "BlueSky",
         "objectId": 48
     },
     {
@@ -570,5 +570,204 @@
         },
         "name": "Oasi dei 7vizi",
         "objectId": 52
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.226330,
+            "longitude": 9.204580
+        },
+        "name": "Toilet",
+        "objectId": 53
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.228044,
+            "longitude": 9.212127
+        },
+        "name": "Toilet",
+        "objectId": 54
+    },
+    {
+        "active": true,
+        "categoryService": 4096,
+        "categoryType": 4096,
+        "location": {
+            "latitude": 39.218945,
+            "longitude": 9.183935
+        },
+        "name": "Dog Area",
+        "objectId": 55
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.215009,
+            "longitude": 9.177671
+        },
+        "name": "Toilet",
+        "objectId": 56
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.214108,
+            "longitude": 9.176059
+        },
+        "name": "Toilet",
+        "objectId": 57
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.209794,
+            "longitude": 9.169643
+        },
+        "name": "Toilet",
+        "objectId": 58
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.208684,
+            "longitude": 9.168253
+        },
+        "name": "Toilet",
+        "objectId": 59
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.205631,
+            "longitude": 9.164810
+        },
+        "name": "Toilet",
+        "objectId": 60
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.204366,
+            "longitude": 9.163845
+        },
+        "name": "Toilet",
+        "objectId": 61
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.202932,
+            "longitude": 9.162787
+        },
+        "name": "Toilet",
+        "objectId": 62
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.196676,
+            "longitude": 9.159629
+        },
+        "name": "Toilet",
+        "objectId": 63
+    },
+    {
+        "active": true,
+        "categoryService": 16,
+        "categoryType": 16,
+        "location": {
+            "latitude": 39.195150,
+            "longitude": 9.159254
+        },
+        "name": "Toilet",
+        "objectId": 64
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "location": {
+            "latitude": 39.193363,
+            "longitude": 9.159932
+        },
+        "name": "Spinnaker",
+        "objectId": 65
+    },
+    {
+        "active": true,
+        "categoryService": 512,
+        "categoryType": 512,
+        "location": {
+            "latitude": 39.223887,
+            "longitude": 9.196762
+        },
+        "name": "Parco",
+        "objectId": 66
+    },
+    {
+        "active": true,
+        "categoryService": 512,
+        "categoryType": 512,
+        "location": {
+            "latitude": 39.226888,
+            "longitude": 9.206231
+        },
+        "name": "Parco",
+        "objectId": 67
+    },
+    {
+        "active": true,
+        "categoryService": 64,
+        "categoryType": 64,
+        "location": {
+            "latitude": 39.213427,
+            "longitude": 9.174204
+        },
+        "name": "Ospedale Marino",
+        "objectId": 68
+    },
+    {
+        "active": true,
+        "categoryService": 128,
+        "categoryType": 128,
+        "location": {
+            "latitude": 39.194366,
+            "longitude": 9.157580
+        },
+        "name": "Fuel",
+        "objectId": 69
+    },
+    {
+        "active": true,
+        "categoryService": 128,
+        "categoryType": 128,
+        "location": {
+            "latitude": 39.230020,
+            "longitude": 9.222971
+        },
+        "name": "Fuel",
+        "objectId": 70
     }
+    
 ]
