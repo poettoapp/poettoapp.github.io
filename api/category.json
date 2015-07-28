@@ -1,6 +1,7 @@
 [
     {
         "name": "private_beach_resort",
+        "hidden": false,
         "desc":{
             "it":"Stabilimento balneare privato",
             "en":"Private beach resort"
@@ -12,6 +13,7 @@
     },
     {
         "name": "kiosk",
+        "hidden": false,
         "desc":{
             "it":"Chiosco",
             "en":"Kiosk"
@@ -23,6 +25,7 @@
     },
     {
         "name": "disco",
+        "hidden": false,
         "desc":{
             "it":"Discoteca",
             "en":"Disco"
@@ -34,6 +37,7 @@
     },
     {
         "name": "toilet",
+        "hidden": true,
         "desc":{
             "it":"Bagno",
             "en":"Toilet"
@@ -45,6 +49,7 @@
     },
     {
         "name": "parking",
+        "hidden": true,
         "desc":{
             "it":"Parcheggio",
             "en":"Parking"
@@ -56,6 +61,7 @@
     },
     {
         "name": "hospital",
+        "hidden": true,
         "desc":{
             "it":"Ospedale",
             "en":"Hospital"
@@ -67,6 +73,7 @@
     },
     {
         "name": "fuel",
+        "hidden": true,
         "desc":{
             "it":"Distributore di benzina",
             "en":"Gas Station"
@@ -78,6 +85,7 @@
     },
     {
         "name": "sport",
+        "hidden": false,
         "desc":{
             "it":"Sport",
             "en":"Sport"
@@ -89,6 +97,7 @@
     },
     {
         "name": "beach_resort",
+        "hidden": false,
         "desc":{
             "it":"Beach Resort",
             "en":"Beach Resort"
@@ -100,6 +109,7 @@
     },
     {
         "name": "garden",
+        "hidden": false,
         "desc":{
             "it":"Parco",
             "en":"Park"
@@ -111,6 +121,7 @@
     },
     {
         "name": "mtb",
+        "hidden": false,
         "desc":{
             "it":"Mountain Bike",
             "en":"Mountain Bike"
@@ -122,6 +133,7 @@
     },
     {
         "name": "dog",
+        "hidden": false,
         "desc":{
             "it":"Area Cani",
             "en":"Dog Area"
@@ -133,6 +145,7 @@
     },
     {
         "name": "wifi",
+        "hidden": true,
         "desc":{
             "it":"Area Wi-Fi",
             "en":"Wi-Fi Area"
@@ -144,6 +157,7 @@
     },
     {
         "name": "bus",
+        "hidden": true,
         "desc":{
             "it":"Fermata Autobus",
             "en":"Bus Stop"
