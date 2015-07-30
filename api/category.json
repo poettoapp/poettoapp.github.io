@@ -166,5 +166,17 @@
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 1024
+    },
+    {
+        "name": "bus ticket",
+        "hidden": true,
+        "desc":{
+            "it":"Biglietti CTM",
+            "en":"CTM ticket bus"
+        },
+        "objectId": 14,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
+        "type": "service",
+        "value": 16384
     }
 ]
