@@ -1294,6 +1294,116 @@
         },
         "name": "CTM - Ippodromo ang via Ausonia",
         "objectId": 108
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1952658,
+            "longitude": 9.1577471
+        },
+        "name": "CTM - ang. via d'Elba",
+        "objectId": 109
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1972039,
+            "longitude": 9.1582182
+        },
+        "name": "CTM - fronte via Gorgona",
+        "objectId": 110
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1972450,
+            "longitude": 9.1583596
+        },
+        "name": "CTM - ang. via Gorgona",
+        "objectId": 111
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1986412,
+            "longitude": 9.1525037
+        },
+        "name": "CTM - sole capolinea 3",
+        "objectId": 112
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1989253,
+            "longitude": 9.1587518
+        },
+        "name": "CTM - fronte via Montecristo",
+        "objectId": 113
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1989755,
+            "longitude": 9.1588697
+        },
+        "name": "CTM - ang Via Montecristo",
+        "objectId": 114
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2016464,
+            "longitude": 9.1600235
+        },
+        "name": "CTM - fronte via Ischia",
+        "objectId": 116
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2018202,
+            "longitude": 9.1602271
+        },
+        "name": "CTM - ang Via Ischia",
+        "objectId": 117
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2046249,
+            "longitude": 9.1624052
+        },
+        "name": "CTM - Ausonia ang Lungosaline",
+        "objectId": 118
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2046572,
+            "longitude": 9.1621143
+        },
+        "name": "CTM - lungosaline chiesa",
+        "objectId": 119
     }
     
 ]
