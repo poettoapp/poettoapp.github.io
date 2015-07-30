@@ -876,6 +876,424 @@
         },
         "name": "Fuel",
         "objectId": 70
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.214038,
+            "longitude": 9.175588
+        },
+        "name": "CTM - AIAS",
+        "objectId": 71
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.209772,
+            "longitude": 9.169122
+        },
+        "name": "CTM - Ippodromo",
+        "objectId": 72
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.207543,
+            "longitude": 9.166750
+        },
+        "name": "CTM - Lido Esercito",
+        "objectId": 73
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213388,
+            "longitude": 9.172639
+        },
+        "name": "CTM - Ospedale Marino",
+        "objectId": 74
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213417,
+            "longitude": 9.174434
+        },
+        "name": "CTM - Ospedale Marino",
+        "objectId": 75
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213042,
+            "longitude": 9.172863
+        },
+        "name": "CTM - Ospedale",
+        "objectId": 76
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.199721,
+            "longitude": 9.145713
+        },
+        "name": "CTM - ang. Via Grecale",
+        "objectId": 77
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.196118,
+            "longitude": 9.152136
+        },
+        "name": "CTM - ang. via Pantelleria",
+        "objectId": 78
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.198520,
+            "longitude": 9.147818
+        },
+        "name": "CTM - ang. via S'Arrulloni",
+        "objectId": 79
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.208040,
+            "longitude": 9.166946
+        },
+        "name": "CTM - ang. via San Pietro",
+        "objectId": 80
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.201162,
+            "longitude": 9.143087
+        },
+        "name": "CTM - ang. via Tramontana",
+        "objectId": 81
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.206729,
+            "longitude": 9.165568
+        },
+        "name": "CTM - ang. via Tremiti",
+        "objectId": 82
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.197821,
+            "longitude": 9.148542
+        },
+        "name": "CTM - ang. via Vergine di Lluc",
+        "objectId": 83
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.196868,
+            "longitude": 9.150276
+        },
+        "name": "CTM - caserma Monfenera",
+        "objectId": 84
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.211351,
+            "longitude": 9.171461
+        },
+        "name": "CTM - ex Ospedale Marino",
+        "objectId": 85
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.201108,
+            "longitude": 9.142730
+        },
+        "name": "CTM - fronte G.Rossi",
+        "objectId": 86
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.209624,
+            "longitude": 9.169268
+        },
+        "name": "CTM - fronte Ippodromo",
+        "objectId": 87
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.197174,
+            "longitude": 9.150294
+        },
+        "name": "CTM - fronte Monfenera",
+        "objectId": 88
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.211995,
+            "longitude": 9.171864
+        },
+        "name": "CTM - fronte vecchio Ospedale",
+        "objectId": 89
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.199573,
+            "longitude": 9.145445
+        },
+        "name": "CTM - via Grecale",
+        "objectId": 90
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.195445,
+            "longitude": 9.152824
+        },
+        "name": "CTM - fronte via dei Tritoni",
+        "objectId": 91
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.218609,
+            "longitude": 9.183093
+        },
+        "name": "CTM - lido Polizia",
+        "objectId": 92
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.202656,
+            "longitude": 9.140753
+        },
+        "name": "CTM - ponte Vittorio",
+        "objectId": 93
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.204753,
+            "longitude": 9.138625
+        },
+        "name": "CTM - stadio Amsicora",
+        "objectId": 94
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.228295,
+            "longitude": 9.211159
+        },
+        "name": "CTM - Fortino",
+        "objectId": 95
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.222913,
+            "longitude": 9.193235
+        },
+        "name": "CTM - La Bussola",
+        "objectId": 96
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.220882,
+            "longitude": 9.187775
+        },
+        "name": "CTM - lido Finanza",
+        "objectId": 97
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.225493,
+            "longitude": 9.201040
+        },
+        "name": "CTM - lido mediterraneo",
+        "objectId": 98
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.227435,
+            "longitude": 9.207397
+        },
+        "name": "CTM - Torre",
+        "objectId": 99
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.229394,
+            "longitude": 9.218376
+        },
+        "name": "CTM - ang. via Da Vinci",
+        "objectId": 100
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.229507,
+            "longitude": 9.218128
+        },
+        "name": "CTM - ang. via Fiume",
+        "objectId": 101
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.222933,
+            "longitude": 9.192322
+        },
+        "name": "CTM - fronte Bussola",
+        "objectId": 102
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.228447,
+            "longitude": 9.211158
+        },
+        "name": "CTM - fronte Fortino",
+        "objectId": 103
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.227310,
+            "longitude": 9.206028
+        },
+        "name": "CTM - fronte Torre",
+        "objectId": 104
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.218552,
+            "longitude": 9.182301
+        },
+        "name": "CTM - fronte lido Carabinieri",
+        "objectId": 105
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.225379,
+            "longitude": 9.200104
+        },
+        "name": "CTM - fronte Lido Mediterraneo",
+        "objectId": 106
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.220678,
+            "longitude": 9.186966
+        },
+        "name": "CTM - fronte lido VVFF",
+        "objectId": 107
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.206363,
+            "longitude": 9.165058
+        },
+        "name": "CTM - Ippodromo ang via Ausonia",
+        "objectId": 108
     }
     
 ]
