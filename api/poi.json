@@ -1124,17 +1124,6 @@
         "categoryService": 1024,
         "categoryType": 1024,
         "location": {
-            "latitude": 39.202656,
-            "longitude": 9.140753
-        },
-        "name": "CTM - ponte Vittorio",
-        "objectId": 93
-    },
-    {
-        "active": true,
-        "categoryService": 1024,
-        "categoryType": 1024,
-        "location": {
             "latitude": 39.204753,
             "longitude": 9.138625
         },
@@ -1333,17 +1322,6 @@
         "categoryService": 1024,
         "categoryType": 1024,
         "location": {
-            "latitude": 39.1986412,
-            "longitude": 9.1525037
-        },
-        "name": "CTM - sole capolinea 3",
-        "objectId": 112
-    },
-    {
-        "active": true,
-        "categoryService": 1024,
-        "categoryType": 1024,
-        "location": {
             "latitude": 39.1989253,
             "longitude": 9.1587518
         },
@@ -1404,6 +1382,50 @@
         },
         "name": "CTM - lungosaline chiesa",
         "objectId": 119
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.214944871266944,
+            "longitude": 9.176705375146064
+        },
+        "name": "CTM - capolinea PN 3P 9P",
+        "objectId": 120
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21632053322698,
+            "longitude": 9.177803954670557
+        },
+        "name": "CTM - saline AIAS",
+        "objectId": 121
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21632324320779,
+            "longitude": 9.177030396149998
+        },
+        "name": "CTM - saline fronte AIAS",
+        "objectId": 122
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21643053499968,
+            "longitude": 9.17993148213504
+        },
+        "name": "CTM - lungomare Poetto Ottagono",
+        "objectId": 123
     }
     
 ]
