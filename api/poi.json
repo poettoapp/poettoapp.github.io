@@ -8,6 +8,8 @@
             "longitude": 9.159371
         },
         "name": "Le Palmette",
+        "instagram":"LePalmette",
+        "description": "Chiosco Le Palmette - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 1
     },
     {
@@ -19,6 +21,8 @@
             "longitude": 9.163968
         },
         "name": "Palm Beach",
+        "instagram":"PalmBeachPoetto",
+        "description": "Chiosco Palm Beach - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 2
     },
     {
@@ -30,6 +34,8 @@
             "longitude": 9.168683
         },
         "name": "Il Nilo",
+        "instagram":"IlNiloPoetto",
+        "description": "Chiosco Il Nilo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 3
     },
     {
@@ -41,6 +47,8 @@
             "longitude": 9.169153
         },
         "name": "Calypso",
+        "instagram":"CalypsoPoetto",
+        "description": "Chiosco Calypso - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 4
     },
     {
@@ -52,17 +60,21 @@
             "longitude": 9.174932
         },
         "name": "Chiosco #6",
+        "description": "Chiosco #6 - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"",
         "objectId": 5
     },
     {
         "active": true,
-        "categoryService": 4,
+        "categoryService": 16388,
         "categoryType": 4,
         "location": {
             "latitude": 39.1963,
             "longitude": 9.1595
         },
         "name": "La Sella Del Diavolo",
+        "instagram":"LaSellaDelDiavoloPoetto",
+        "description": "Chiosco La Sella Del Diavolo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 6
     },
     {
@@ -74,6 +86,8 @@
             "longitude": 9.161561
         },
         "name": "Il Lido",
+        "instagram":"IlLidoPoetto",
+        "description": "Stabilimento Il Lido - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 7
     },
     {
@@ -85,6 +99,8 @@
             "longitude": 9.162901
         },
         "name": "Malibù",
+        "instagram":"MalibuPoetto",
+        "description": "Chiosco Malibù - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 8
     },
     {
@@ -96,6 +112,8 @@
             "longitude": 9.16065
         },
         "name": "Ufficiali Marina Militare",
+        "description": "Stabilimento privato Ufficiali Marina Militare",
+        "instagram":"",
         "objectId": 9
     },
     {
@@ -107,6 +125,8 @@
             "longitude": 9.162818
         },
         "name": "Marina Militare",
+        "description": "Stabilimento privato Marina Militare",
+        "instagram":"",
         "objectId": 10
     },
     {
@@ -118,6 +138,8 @@
             "longitude": 9.1634
         },
         "name": "Chiosco #1  ",
+        "description": "",
+        "instagram":"",
         "objectId": 11
     },
     {
@@ -129,6 +151,8 @@
             "longitude": 9.164922
         },
         "name": "Stabilimento #2",
+        "description": "",
+        "instagram":"",
         "objectId": 12
     },
     {
@@ -140,6 +164,8 @@
             "longitude": 9.164631
         },
         "name": "Lanterna Rossa",
+        "instagram":"LanternaRossaPoetto",
+        "description": "Chiosco La Lanterna Rossa - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 13
     },
     {
@@ -151,17 +177,21 @@
             "longitude": 9.165773
         },
         "name": "Stabilimento #3",
+        "description": "",
+        "instagram":"",
         "objectId": 14
     },
     {
         "active": true,
-        "categoryService": 4,
+        "categoryService": 16388,
         "categoryType": 4,
         "location": {
             "latitude": 39.20634,
             "longitude": 9.165476
         },
         "name": "Twist",
+        "instagram":"TwistPoetto",
+        "description": "Chiosco Twist - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 15
     },
     {
@@ -173,6 +203,8 @@
             "longitude": 9.165897
         },
         "name": "Aeronautica Militare",
+        "description": "Stabilimento Privato Aeronautica Militare",
+        "instagram":"",
         "objectId": 16
     },
     {
@@ -184,6 +216,8 @@
             "longitude": 9.167331
         },
         "name": "Chiosco #4",
+        "description": "Chiosco #4 - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"",
         "objectId": 17
     },
     {
@@ -195,17 +229,21 @@
             "longitude": 9.16804
         },
         "name": "Il Miraggio",
+        "instagram":"IlMiraggioPoetto",
+        "description": "Chiosco Il Miraggio - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 18
     },
     {
         "active": true,
-        "categoryService": 5,
+        "categoryService": 16389,
         "categoryType": 4,
         "location": {
             "latitude": 39.213115,
             "longitude": 9.174189
         },
         "name": "La Dolce Vita",
+        "instagram":"LaDolceVitaPoetto",
+        "description": "Chiosco La Dolce Vita - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 19
     },
     {
@@ -217,6 +255,8 @@
             "longitude": 9.175576
         },
         "name": "Aramacao",
+        "instagram":"AramacaoPoetto",
+        "description": "Chiosco Aramacao - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 20
     },
     {
@@ -228,6 +268,8 @@
             "longitude": 9.17727
         },
         "name": "Capolinea",
+        "instagram":"CapolineaPoetto",
+        "description": "Chiosco Capolinea - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 21
     },
     {
@@ -239,6 +281,8 @@
             "longitude": 9.179314
         },
         "name": "Ottagono",
+        "instagram":"OttagonoPoetto",
+        "description": "Stabilimento Ottagono - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 22
     },
     {
@@ -250,6 +294,8 @@
             "longitude": 9.181149
         },
         "name": "Golden Beach",
+        "description": "",
+        "instagram":"",
         "objectId": 23
     },
     {
@@ -261,6 +307,8 @@
             "longitude": 9.182466
         },
         "name": "Lido Del Carabiniere",
+        "description": "Stabilimento privato Lido Del Carabiniere",
+        "instagram":"",
         "objectId": 24
     },
     {
@@ -272,6 +320,8 @@
             "longitude": 9.184386
         },
         "name": "Alta Marea",
+        "description": "",
+        "instagram":"",
         "objectId": 25
     },
     {
@@ -283,6 +333,8 @@
             "longitude": 9.186588
         },
         "name": "Vigili Del Fuoco",
+        "description": "Stabilimento privato Vigili del fuoco",
+        "instagram":"",
         "objectId": 26
     },
     {
@@ -294,6 +346,8 @@
             "longitude": 9.187271
         },
         "name": "Corpo Nazionale Vigili Del Fuoco",
+        "description": "Stabilimento privato Vigili del fuoco",
+        "instagram":"",
         "objectId": 27
     },
     {
@@ -305,6 +359,8 @@
             "longitude": 9.189489
         },
         "name": "Bikini",
+        "instagram":"BikiniPoetto",
+        "description": "Chiosco Bikini - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 28
     },
     {
@@ -316,6 +372,8 @@
             "longitude": 9.190894
         },
         "name": "Sax Beach",
+        "instagram":"SaxBeach",
+        "description": "Chiosco Sax Beach - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 29
     },
     {
@@ -327,6 +385,8 @@
             "longitude": 9.192717
         },
         "name": "Marlin Beach Club",
+        "instagram":"MarlinBeachClub",
+        "description": "Chiosco Marlin Beach Club - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 30
     },
     {
@@ -338,6 +398,8 @@
             "longitude": 9.195221
         },
         "name": "La Marinella",
+        "instagram":"LaMarinella",
+        "description": "Stabilimento La Marinella - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 31
     },
     {
@@ -349,6 +411,8 @@
             "longitude": 9.197871
         },
         "name": "Skipper",
+        "instagram":"SkipperPoetto",
+        "description": "Stabilimento Skipper - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 32
     },
     {
@@ -360,6 +424,8 @@
             "longitude": 9.204515
         },
         "name": "Frontemare",
+        "instagram":"FronteMare",
+        "description": "Stabilimento Frontemare - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 33
     },
     {
@@ -371,6 +437,8 @@
             "longitude": 9.183736
         },
         "name": "Brave",
+        "description": "",
+        "instagram":"",
         "objectId": 34
     },
     {
@@ -382,6 +450,8 @@
             "longitude": 9.163676
         },
         "name": "Emerson",
+        "instagram":"EmersonPoetto",
+        "description": "Stabilimento Emerson - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 35
     },
     {
@@ -393,6 +463,8 @@
             "longitude": 9.158952
         },
         "name": "Otium",
+        "instagram":"OtiumPoetto",
+        "description": "Chiosco Otium - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 36
     },
     {
@@ -404,6 +476,8 @@
             "longitude": 9.160201
         },
         "name": "D'Aquila",
+        "instagram":"DAquilaPoetto",
+        "description": "Stabilimento D'Aquila - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 37
     },
     {
@@ -415,6 +489,8 @@
             "longitude": 9.17001
         },
         "name": "Corto Maltese",
+        "description": "Chiosco Corto Maltese - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"CortoMaltesePoetto",
         "objectId": 38
     },
     {
@@ -426,6 +502,8 @@
             "longitude": 9.170671
         },
         "name": "Fico d'India",
+        "description": "Chiosco Fico d'India - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"FicoDIndiaPoetto",
         "objectId": 39
     },
     {
@@ -436,7 +514,9 @@
             "latitude": 39.218003,
             "longitude": 9.18328
         },
-        "name": "Polizia Di Stato",
+        "name": "Polizia di Stato",
+        "description": "Stabilimento privato Polizia di Stato - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"",
         "objectId": 40
     },
     {
@@ -447,7 +527,9 @@
             "latitude": 39.220364,
             "longitude": 9.187905
         },
-        "name": "Guardia Di Finanza",
+        "name": "Guardia di Finanza",
+        "description": "Stabilimento privato guardia di finanza - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"",
         "objectId": 41
     },
     {
@@ -459,6 +541,8 @@
             "longitude": 9.200011
         },
         "name": "Lido Mediterraneo",
+        "description": "Stabilimento Lido Mediterraneo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"LidoMediterraneoPoetto",
         "objectId": 42
     },
     {
@@ -470,6 +554,8 @@
             "longitude": 9.202456
         },
         "name": "Bay Watch",
+        "description": "",
+        "instagram":"",
         "objectId": 43
     },
     {
@@ -481,6 +567,8 @@
             "longitude": 9.203228
         },
         "name": "Campo da Basket",
+        "description": "",
+        "instagram":"BasketPoetto",
         "objectId": 44
     },
     {
@@ -492,6 +580,8 @@
             "longitude": 9.205374
         },
         "name": "Alma Beach Studios",
+        "description": "Alma Beach Studios - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"AlmaBeach",
         "objectId": 45
     },
     {
@@ -503,6 +593,8 @@
             "longitude": 9.206415
         },
         "name": "Joyo",
+        "description": "Chiosco Joyo - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"JoyoPoetto",
         "objectId": 46
     },
     {
@@ -514,6 +606,8 @@
             "longitude": 9.208799
         },
         "name": "Passaggio a NordOvest",
+        "description": "Chiosco Passaggio a NordOvest - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"NordOvestPoetto",
         "objectId": 47
     },
     {
@@ -525,6 +619,8 @@
             "longitude": 9.21087
         },
         "name": "BlueSky",
+        "description": "Chiosco BlueSky - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"BlueSkyPoetto",
         "objectId": 48
     },
     {
@@ -536,6 +632,8 @@
             "longitude": 9.213115
         },
         "name": "Le Due Torri",
+        "description": "Chiosco Le Due Torri - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"LeDueTorriPoetto",
         "objectId": 49
     },
     {
@@ -547,6 +645,8 @@
             "longitude": 9.216073
         },
         "name": "I Pini",
+        "description": "Chiosco I Pini - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"IPiniPoetto",
         "objectId": 50
     },
     {
@@ -558,6 +658,8 @@
             "longitude": 9.20560
         },
         "name": "Kingka",
+        "description": "Kingka - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"Kingka",
         "objectId": 51
     },
     {
@@ -569,6 +671,8 @@
             "longitude": 9.188293
         },
         "name": "Oasi dei 7vizi",
+        "description": "Oasi dei sette vizi - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"OasiDeiSetteVizi",
         "objectId": 52
     },
     {
@@ -579,7 +683,7 @@
             "latitude": 39.226330,
             "longitude": 9.204580
         },
-        "name": "Toilet",
+        "name": "Toilet Quartu 1",
         "objectId": 53
     },
     {
@@ -590,7 +694,7 @@
             "latitude": 39.228044,
             "longitude": 9.212127
         },
-        "name": "Toilet",
+        "name": "Toilet fine pista ciclabile",
         "objectId": 54
     },
     {
@@ -602,6 +706,8 @@
             "longitude": 9.183935
         },
         "name": "Dog Area",
+        "description": "Dog Service - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"DogAreaPoetto",
         "objectId": 55
     },
     {
@@ -612,7 +718,7 @@
             "latitude": 39.215009,
             "longitude": 9.177671
         },
-        "name": "Toilet",
+        "name": "Toilet Capolinea",
         "objectId": 56
     },
     {
@@ -623,7 +729,7 @@
             "latitude": 39.214108,
             "longitude": 9.176059
         },
-        "name": "Toilet",
+        "name": "Toilet Aramacao",
         "objectId": 57
     },
     {
@@ -634,7 +740,7 @@
             "latitude": 39.209794,
             "longitude": 9.169643
         },
-        "name": "Toilet",
+        "name": "Toilet Calypso",
         "objectId": 58
     },
     {
@@ -645,7 +751,7 @@
             "latitude": 39.208684,
             "longitude": 9.168253
         },
-        "name": "Toilet",
+        "name": "Toilet Il Miraggio",
         "objectId": 59
     },
     {
@@ -656,7 +762,7 @@
             "latitude": 39.205631,
             "longitude": 9.164810
         },
-        "name": "Toilet",
+        "name": "Toilet Lanterna Rossa",
         "objectId": 60
     },
     {
@@ -667,7 +773,7 @@
             "latitude": 39.204366,
             "longitude": 9.163845
         },
-        "name": "Toilet",
+        "name": "Toilet Emerson",
         "objectId": 61
     },
     {
@@ -678,7 +784,7 @@
             "latitude": 39.202932,
             "longitude": 9.162787
         },
-        "name": "Toilet",
+        "name": "Toilet Malibù",
         "objectId": 62
     },
     {
@@ -689,7 +795,7 @@
             "latitude": 39.196676,
             "longitude": 9.159629
         },
-        "name": "Toilet",
+        "name": "Toilet via Gorgona",
         "objectId": 63
     },
     {
@@ -700,7 +806,7 @@
             "latitude": 39.195150,
             "longitude": 9.159254
         },
-        "name": "Toilet",
+        "name": "Toilet le Palmette",
         "objectId": 64
     },
     {
@@ -712,6 +818,8 @@
             "longitude": 9.159932
         },
         "name": "Spinnaker",
+        "description": "Spinnaker - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram":"SpinnakerPoetto",
         "objectId": 65
     },
     {
@@ -768,6 +876,611 @@
         },
         "name": "Fuel",
         "objectId": 70
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.214038,
+            "longitude": 9.175588
+        },
+        "name": "CTM - AIAS",
+        "objectId": 71
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.209772,
+            "longitude": 9.169122
+        },
+        "name": "CTM - Ippodromo",
+        "objectId": 72
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.207543,
+            "longitude": 9.166750
+        },
+        "name": "CTM - Lido Esercito",
+        "objectId": 73
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213388,
+            "longitude": 9.172639
+        },
+        "name": "CTM - Ospedale Marino",
+        "objectId": 74
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213417,
+            "longitude": 9.174434
+        },
+        "name": "CTM - Ospedale Marino",
+        "objectId": 75
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.213042,
+            "longitude": 9.172863
+        },
+        "name": "CTM - Ospedale",
+        "objectId": 76
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.199721,
+            "longitude": 9.145713
+        },
+        "name": "CTM - ang. Via Grecale",
+        "objectId": 77
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.196118,
+            "longitude": 9.152136
+        },
+        "name": "CTM - ang. via Pantelleria",
+        "objectId": 78
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.198520,
+            "longitude": 9.147818
+        },
+        "name": "CTM - ang. via S'Arrulloni",
+        "objectId": 79
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.208040,
+            "longitude": 9.166946
+        },
+        "name": "CTM - ang. via San Pietro",
+        "objectId": 80
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.201162,
+            "longitude": 9.143087
+        },
+        "name": "CTM - ang. via Tramontana",
+        "objectId": 81
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.206729,
+            "longitude": 9.165568
+        },
+        "name": "CTM - ang. via Tremiti",
+        "objectId": 82
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.197821,
+            "longitude": 9.148542
+        },
+        "name": "CTM - ang. via Vergine di Lluc",
+        "objectId": 83
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.196868,
+            "longitude": 9.150276
+        },
+        "name": "CTM - caserma Monfenera",
+        "objectId": 84
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.211351,
+            "longitude": 9.171461
+        },
+        "name": "CTM - ex Ospedale Marino",
+        "objectId": 85
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.201108,
+            "longitude": 9.142730
+        },
+        "name": "CTM - fronte G.Rossi",
+        "objectId": 86
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.209624,
+            "longitude": 9.169268
+        },
+        "name": "CTM - fronte Ippodromo",
+        "objectId": 87
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.197174,
+            "longitude": 9.150294
+        },
+        "name": "CTM - fronte Monfenera",
+        "objectId": 88
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.211995,
+            "longitude": 9.171864
+        },
+        "name": "CTM - fronte vecchio Ospedale",
+        "objectId": 89
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.199573,
+            "longitude": 9.145445
+        },
+        "name": "CTM - via Grecale",
+        "objectId": 90
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.195445,
+            "longitude": 9.152824
+        },
+        "name": "CTM - fronte via dei Tritoni",
+        "objectId": 91
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.218609,
+            "longitude": 9.183093
+        },
+        "name": "CTM - lido Polizia",
+        "objectId": 92
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.204753,
+            "longitude": 9.138625
+        },
+        "name": "CTM - stadio Amsicora",
+        "objectId": 94
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.228295,
+            "longitude": 9.211159
+        },
+        "name": "CTM - Fortino",
+        "objectId": 95
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.222913,
+            "longitude": 9.193235
+        },
+        "name": "CTM - La Bussola",
+        "objectId": 96
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.220882,
+            "longitude": 9.187775
+        },
+        "name": "CTM - lido Finanza",
+        "objectId": 97
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.225493,
+            "longitude": 9.201040
+        },
+        "name": "CTM - lido mediterraneo",
+        "objectId": 98
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.227435,
+            "longitude": 9.207397
+        },
+        "name": "CTM - Torre",
+        "objectId": 99
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.229394,
+            "longitude": 9.218376
+        },
+        "name": "CTM - ang. via Da Vinci",
+        "objectId": 100
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.229507,
+            "longitude": 9.218128
+        },
+        "name": "CTM - ang. via Fiume",
+        "objectId": 101
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.222933,
+            "longitude": 9.192322
+        },
+        "name": "CTM - fronte Bussola",
+        "objectId": 102
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.228447,
+            "longitude": 9.211158
+        },
+        "name": "CTM - fronte Fortino",
+        "objectId": 103
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.227310,
+            "longitude": 9.206028
+        },
+        "name": "CTM - fronte Torre",
+        "objectId": 104
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.218552,
+            "longitude": 9.182301
+        },
+        "name": "CTM - fronte lido Carabinieri",
+        "objectId": 105
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.225379,
+            "longitude": 9.200104
+        },
+        "name": "CTM - fronte Lido Mediterraneo",
+        "objectId": 106
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.220678,
+            "longitude": 9.186966
+        },
+        "name": "CTM - fronte lido VVFF",
+        "objectId": 107
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.206363,
+            "longitude": 9.165058
+        },
+        "name": "CTM - Ippodromo ang via Ausonia",
+        "objectId": 108
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1952658,
+            "longitude": 9.1577471
+        },
+        "name": "CTM - ang. via d'Elba",
+        "objectId": 109
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1972039,
+            "longitude": 9.1582182
+        },
+        "name": "CTM - fronte via Gorgona",
+        "objectId": 110
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1972450,
+            "longitude": 9.1583596
+        },
+        "name": "CTM - ang. via Gorgona",
+        "objectId": 111
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1989253,
+            "longitude": 9.1587518
+        },
+        "name": "CTM - fronte via Montecristo",
+        "objectId": 113
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.1989755,
+            "longitude": 9.1588697
+        },
+        "name": "CTM - ang Via Montecristo",
+        "objectId": 114
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2016464,
+            "longitude": 9.1600235
+        },
+        "name": "CTM - fronte via Ischia",
+        "objectId": 116
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2018202,
+            "longitude": 9.1602271
+        },
+        "name": "CTM - ang Via Ischia",
+        "objectId": 117
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2046249,
+            "longitude": 9.1624052
+        },
+        "name": "CTM - Ausonia ang Lungosaline",
+        "objectId": 118
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.2046572,
+            "longitude": 9.1621143
+        },
+        "name": "CTM - lungosaline chiesa",
+        "objectId": 119
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.214944871266944,
+            "longitude": 9.176705375146064
+        },
+        "name": "CTM - capolinea PN 3P 9P",
+        "objectId": 120
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21632053322698,
+            "longitude": 9.177803954670557
+        },
+        "name": "CTM - saline AIAS",
+        "objectId": 121
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21632324320779,
+            "longitude": 9.177030396149998
+        },
+        "name": "CTM - saline fronte AIAS",
+        "objectId": 122
+    },
+    {
+        "active": true,
+        "categoryService": 1024,
+        "categoryType": 1024,
+        "location": {
+            "latitude": 39.21643053499968,
+            "longitude": 9.17993148213504
+        },
+        "name": "CTM - lungomare Poetto Ottagono",
+        "objectId": 123
+    },
+    {
+        "active": true,
+        "categoryService": 16384,
+        "categoryType": 16384,
+        "location": {
+            "latitude": 39.198437,
+            "longitude": 9.147806
+        },
+        "name": "CTM Tickets - Bar F.lli Carta",
+        "objectId": 124
+    },
+    {
+        "active": true,
+        "categoryService": 16384,
+        "categoryType": 16384,
+        "location": {
+            "latitude": 39.199480,
+            "longitude": 9.160014
+        },
+        "name": "CTM Tickets - Bar Mameli",
+        "objectId": 125
+    },
+    {
+        "active": true,
+        "categoryService": 49152,
+        "categoryType": 32768,
+        "location": {
+            "latitude": 39.201549,
+            "longitude": 9.161342
+        },
+        "name": "CTM Tickets - Edicola fronte Lido",
+        "objectId": 126
+    },
+    {
+        "active": true,
+        "categoryService": 49152,
+        "categoryType": 32768,
+        "location": {
+            "latitude": 39.206613,
+            "longitude": 9.164726
+        },
+        "name": "CTM Tickets - Edicola via Ippodromo",
+        "objectId": 127
+    },
+    {
+        "active": true,
+        "categoryService": 49152,
+        "categoryType": 32768,
+        "location": {
+            "latitude": 39.223103,
+            "longitude": 9.194278
+        },
+        "name": "CTM Tickets - Edicola fronte Marinella",
+        "objectId": 128
     }
     
 ]
