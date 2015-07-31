@@ -683,7 +683,7 @@
             "latitude": 39.226330,
             "longitude": 9.204580
         },
-        "name": "Toilet",
+        "name": "Toilet Quartu 1",
         "objectId": 53
     },
     {
@@ -694,7 +694,7 @@
             "latitude": 39.228044,
             "longitude": 9.212127
         },
-        "name": "Toilet",
+        "name": "Toilet 10",
         "objectId": 54
     },
     {
@@ -718,7 +718,7 @@
             "latitude": 39.215009,
             "longitude": 9.177671
         },
-        "name": "Toilet",
+        "name": "Toilet 9",
         "objectId": 56
     },
     {
@@ -729,7 +729,7 @@
             "latitude": 39.214108,
             "longitude": 9.176059
         },
-        "name": "Toilet",
+        "name": "Toilet 8",
         "objectId": 57
     },
     {
@@ -740,7 +740,7 @@
             "latitude": 39.209794,
             "longitude": 9.169643
         },
-        "name": "Toilet",
+        "name": "Toilet 7",
         "objectId": 58
     },
     {
@@ -751,7 +751,7 @@
             "latitude": 39.208684,
             "longitude": 9.168253
         },
-        "name": "Toilet",
+        "name": "Toilet 6",
         "objectId": 59
     },
     {
@@ -762,7 +762,7 @@
             "latitude": 39.205631,
             "longitude": 9.164810
         },
-        "name": "Toilet",
+        "name": "Toilet 5",
         "objectId": 60
     },
     {
@@ -773,7 +773,7 @@
             "latitude": 39.204366,
             "longitude": 9.163845
         },
-        "name": "Toilet",
+        "name": "Toilet 12",
         "objectId": 61
     },
     {
@@ -784,7 +784,7 @@
             "latitude": 39.202932,
             "longitude": 9.162787
         },
-        "name": "Toilet",
+        "name": "Toilet 4",
         "objectId": 62
     },
     {
@@ -795,7 +795,7 @@
             "latitude": 39.196676,
             "longitude": 9.159629
         },
-        "name": "Toilet",
+        "name": "Toilet 3",
         "objectId": 63
     },
     {
@@ -806,7 +806,7 @@
             "latitude": 39.195150,
             "longitude": 9.159254
         },
-        "name": "Toilet",
+        "name": "Toilet 2",
         "objectId": 64
     },
     {
@@ -1451,14 +1451,36 @@
     },
     {
         "active": true,
-        "categoryService": 16384,
-        "categoryType": 16384,
+        "categoryService": 49152,
+        "categoryType": 32768,
         "location": {
             "latitude": 39.201549,
             "longitude": 9.161342
         },
         "name": "CTM Tickets - Edicola fronte Lido",
         "objectId": 126
+    },
+    {
+        "active": true,
+        "categoryService": 49152,
+        "categoryType": 32768,
+        "location": {
+            "latitude": 39.206613,
+            "longitude": 9.164726
+        },
+        "name": "CTM Tickets - Edicola via Ippodromo",
+        "objectId": 127
+    },
+    {
+        "active": true,
+        "categoryService": 49152,
+        "categoryType": 32768,
+        "location": {
+            "latitude": 39.223103,
+            "longitude": 9.194278
+        },
+        "name": "CTM Tickets - Edicola fronte Marinella",
+        "objectId": 128
     }
     
 ]
