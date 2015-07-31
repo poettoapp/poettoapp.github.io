@@ -66,7 +66,7 @@
     },
     {
         "active": true,
-        "categoryService": 4,
+        "categoryService": 16388,
         "categoryType": 4,
         "location": {
             "latitude": 39.1963,
@@ -183,7 +183,7 @@
     },
     {
         "active": true,
-        "categoryService": 4,
+        "categoryService": 16388,
         "categoryType": 4,
         "location": {
             "latitude": 39.20634,
@@ -235,7 +235,7 @@
     },
     {
         "active": true,
-        "categoryService": 5,
+        "categoryService": 16389,
         "categoryType": 4,
         "location": {
             "latitude": 39.213115,
@@ -1426,6 +1426,39 @@
         },
         "name": "CTM - lungomare Poetto Ottagono",
         "objectId": 123
+    },
+    {
+        "active": true,
+        "categoryService": 16384,
+        "categoryType": 16384,
+        "location": {
+            "latitude": 39.198437,
+            "longitude": 9.147806
+        },
+        "name": "CTM Tickets - F.lli Carta di Eliseo & C. s.n.c.",
+        "objectId": 124
+    },
+    {
+        "active": true,
+        "categoryService": 16384,
+        "categoryType": 16384,
+        "location": {
+            "latitude": 39.199480,
+            "longitude": 9.160014
+        },
+        "name": "CTM Tickets - Mameli",
+        "objectId": 125
+    },
+    {
+        "active": true,
+        "categoryService": 16384,
+        "categoryType": 16384,
+        "location": {
+            "latitude": 39.201549,
+            "longitude": 9.161342
+        },
+        "name": "CTM Tickets - Edicola fronte Lido",
+        "objectId": 126
     }
     
 ]
