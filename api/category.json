@@ -178,5 +178,17 @@
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
         "type": "service",
         "value": 16384
+    },
+    {
+        "name": "Edicola",
+        "hidden": true,
+        "desc":{
+            "it":"Edicola",
+            "en":"Newsstand"
+        },
+        "objectId": 15,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/test_icon.png",
+        "type": "service",
+        "value": 32768
     }
 ]
