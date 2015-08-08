@@ -190,5 +190,17 @@
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_edicola.png",
         "type": "service",
         "value": 32768
+    },
+    {
+        "name": "Gelato",
+        "hidden": false,
+        "desc":{
+            "it":"Gelateria",
+            "en":"Ice Cream"
+        },
+        "objectId": 16,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_ice_cream.png",
+        "type": "service",
+        "value": 65536
     }
 ]
