@@ -1481,6 +1481,31 @@
         },
         "name": "CTM Tickets - Edicola fronte Marinella",
         "objectId": 128
+    },
+    {
+        "active": true,
+        "categoryService": 65536,
+        "categoryType": 65536,
+        "location": {
+            "latitude": 39.204126,
+            "longitude": 9.163438
+        },
+        "name": "Bobo Cono",
+        "instagram":"#bobocono",
+        "description": "Bobo Cono - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "objectId": 129
+    },
+    {
+        "active": true,
+        "categoryService": 65536,
+        "categoryType": 65536,
+        "location": {
+            "latitude": 39.205843,
+            "longitude": 9.164785
+        },
+        "name": "La Quinta",
+        "description": "La Quinta - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "objectId": 130
     }
     
 ]
