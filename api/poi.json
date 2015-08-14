@@ -1512,10 +1512,11 @@
         "categoryService": 131072,
         "categoryType": 131072,
         "location": {
-            "latitude": 39.2011681,
-            "longitude": 9.1612773
+            "latitude": 39.201084,
+            "longitude": 9.161579
         },
         "name": "Beauty in the beach",
+        "instagram":"beautyinthebeach",
         "description": "Beauty in the Beach - Parrucchieri Cagliari \u00E8 trattamenti specifici per ogni tipo di capello, make-up, unghie ed epilazione, massaggi e trattamenti pre e after-sun, vendita prodotti estetici. \r\n \r\nNaturale, meravigliosa anche dopo il mare: taglio, piega, colore per i tuoi capelli, epilazione, make-up e nail-art per il tuo corpo. Beauty in the Beach - Parrucchieri Cagliari \u00E8 il primo salone di bellezza sul mare per essere perfette dalla testa ai piedi, anche dopo una lunga e ventosa giornata in spiaggia. \r\n \r\nPer prenotazioni visita il nostro sito www.binthebparrucchiericagliari.com, chiamaci al 327 771 9522, oppure vieni a trovarci al Lido, in viale Poetto 41 a Cagliari. \r\nAperto tutti i giorni dalle 10.00 alle 19.00. Anche tutti i luned\u00EC di agosto e a ferragosto!",
         "objectId": 131
     }
