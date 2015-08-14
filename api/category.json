@@ -202,5 +202,17 @@
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_ice_cream.png",
         "type": "service",
         "value": 65536
+    },
+    {
+        "name": "Salute e Bellezza",
+        "hidden": false,
+        "desc":{
+            "it":"Salute e Bellezza",
+            "en":"Health & Beauty"
+        },
+        "objectId": 17,
+        "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_health_beauty.png",
+        "type": "service",
+        "value": 131072
     }
 ]
