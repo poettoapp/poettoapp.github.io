@@ -28,7 +28,7 @@
         "hidden": false,
         "desc":{
             "it":"Discoteca",
-            "en":"Disco"
+            "en":"Discotheque"
         },
         "objectId": 3,
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_disco.png",
@@ -172,7 +172,7 @@
         "hidden": true,
         "desc":{
             "it":"Biglietti CTM",
-            "en":"CTM ticket bus"
+            "en":"CTM bus tickets"
         },
         "objectId": 14,
         "iconURL": "https://raw.githubusercontent.com/poettoapp/poettoapp.github.io/master/images/ic_bus_ticket.png",
