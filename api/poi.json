@@ -108,19 +108,6 @@
         "categoryService": 2,
         "categoryType": 2,
         "location": {
-            "latitude": 39.199791,
-            "longitude": 9.16065
-        },
-        "name": "Ufficiali Marina Militare",
-        "description": "Stabilimento privato Ufficiali Marina Militare",
-        "instagram":"",
-        "objectId": 9
-    },
-    {
-        "active": true,
-        "categoryService": 2,
-        "categoryType": 2,
-        "location": {
             "latitude": 39.202602,
             "longitude": 9.162818
         },
@@ -339,19 +326,6 @@
     },
     {
         "active": true,
-        "categoryService": 2,
-        "categoryType": 2,
-        "location": {
-            "latitude": 39.220105,
-            "longitude": 9.187271
-        },
-        "name": "Corpo Nazionale Vigili Del Fuoco",
-        "description": "Stabilimento privato Vigili del fuoco",
-        "instagram":"",
-        "objectId": 27
-    },
-    {
-        "active": true,
         "categoryService": 5,
         "categoryType": 1,
         "location": {
@@ -566,7 +540,7 @@
             "latitude": 39.225889,
             "longitude": 9.203228
         },
-        "name": "Campo da Basket",
+        "name": "Basket",
         "description": "",
         "instagram":"BasketPoetto",
         "objectId": 44
