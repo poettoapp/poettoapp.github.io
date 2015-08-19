@@ -17,6 +17,10 @@
   	},
   	{
 		"key": "about",
-    	"value" : "http://poettoapp.com/about.html"
+    	"value" : "http://poettoapp.com/appviews/about.html"
+    },
+    {
+        "key": "emergency",
+        "value" : "http://poettoapp.com/appviews/emergency.html"
     }
 ]
