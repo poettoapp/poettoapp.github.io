@@ -99,7 +99,7 @@
         "name": "beach_resort",
         "hidden": false,
         "desc":{
-            "it":"Beach Resort",
+            "it":"Stabilimento Balneare",
             "en":"Beach Resort"
         },
         "objectId": 9,
@@ -208,7 +208,7 @@
         "hidden": true,
         "desc":{
             "it":"Biglietti CTM",
-            "en":"CTM bus tickets"
+            "en":"CTM Bus tickets"
         },
         "objectId": 18,
         "iconURL": "http://www.poettoapp.com/images/ic_bus_ticket.png",
