@@ -440,8 +440,8 @@
         "instagram":"OtiumPoetto",
         "description": "Chiosco Otium - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "desc":{
-            "it":"test desc it",
-            "en":"test desc en"
+            "it":"Otium description ITA",
+            "en":"Otium description ENG"
         },
         "objectId": 36
     },
