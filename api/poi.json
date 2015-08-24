@@ -439,6 +439,10 @@
         "name": "Otium",
         "instagram":"OtiumPoetto",
         "description": "Chiosco Otium - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "desc":{
+            "it":"test desc it",
+            "en":"test desc en"
+        },
         "objectId": 36
     },
     {
