@@ -117,16 +117,16 @@
         "objectId": 10
     },
     {
-        "active": false,
+        "active": true,
         "categoryService": 4,
         "categoryType": 4,
         "location": {
             "latitude": 39.203765,
             "longitude": 9.1634
         },
-        "name": "Chiosco #1  ",
-        "description": "",
-        "instagram": "",
+        "name": "Oasi Café",
+        "description": "Oasi Café - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
+        "instagram": "OasiCafe",
         "objectId": 11
     },
     {
