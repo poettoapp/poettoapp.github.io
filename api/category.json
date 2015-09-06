@@ -229,7 +229,7 @@
     },
     {
         "name": "streetfood",
-        "hidden": true,
+        "hidden": false,
         "desc":{
             "it":"Cibo di strada",
             "en":"Street food"
