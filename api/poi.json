@@ -1512,8 +1512,8 @@
         "categoryService": 524288,
         "categoryType": 524288,
         "location": {
-            "latitude": 39.202476,
-            "longitude": 9.161431
+            "latitude": 39.202446, 
+            "longitude": 9.161400
         },
         "name": "Serious and Fast",
         "instagram": "SeriousAndFastPoetto",
@@ -1525,8 +1525,8 @@
         "categoryService": 524288,
         "categoryType": 524288,
         "location": {
-            "latitude": 39.202431,
-            "longitude": 9.161495
+            "latitude": 39.202411,
+            "longitude": 9.161488
         },
         "name": "Il Vulcano",
         "instagram": "IlVulcanoPoetto",
