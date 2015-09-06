@@ -226,5 +226,17 @@
         "iconURL": "http://www.poettoapp.com/images/mapIcons/ic_bus_ticket.png",
         "type": "service",
         "value": 262144
+    },
+    {
+        "name": "streetfood",
+        "hidden": true,
+        "desc":{
+            "it":"Cibo di strada",
+            "en":"Street food"
+        },
+        "objectId": 20,
+        "iconURL": "http://www.poettoapp.com/images/mapIcons/ic_streetfood.png",
+        "type": "service",
+        "value": 524288
     }
 ]
