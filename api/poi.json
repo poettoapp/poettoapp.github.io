@@ -1499,8 +1499,8 @@
         "categoryService": 524288,
         "categoryType": 524288,
         "location": {
-            "latitude": 39.202519,
-            "longitude": 9.161348
+            "latitude": 39.202481,
+            "longitude": 9.161332
         },
         "name": "Mela e Tequila",
         "instagram": "MelaETequilaPoetto",
@@ -1568,7 +1568,7 @@
             "longitude": 9.161709
         },
         "name": "The Best - La delizia dei Sapori",
-        "instagram": "MelaETequilaPoetto",
+        "instagram": "LaDeliziaDeiSaporiPoetto",
         "description": "The Best - La delizia dei Sapori - contattaci per personalizzare questo messaggio: contatti@poettoapp.com",
         "objectId": 137
     },
