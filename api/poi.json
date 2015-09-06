@@ -1610,8 +1610,8 @@
         "instagram": "windsurfingclubcagliari",
         "description": "Windsurfing Club Cagliari\r\nScuola di vela, fabbrica di campioni e sede di eventi internazionali: ad ottobre 2015 ospiterà al Poetto i Campionati Mondiali della Classe Techno 293 di windsurf.\r\n\r\nhttp://www.windsurfingclubcagliari.org \r\n\r\nhttp://techno293worlds-cagliari2015.org",
         "desc": {
-            "it": "<b>Windsurfing Club Cagliari</b><br>Scuola di vela, fabbrica di campioni e sede di eventi internazionali: ad ottobre 2015 ospiterà al Poetto i Campionati Mondiali della Classe Techno 293 di windsurf.<br><br>http://www.windsurfingclubcagliari.org/ <br><br>http://techno293worlds-cagliari2015.org/",
-            "en": "<b>Windsurfing Club Cagliari</b><br>Sailing school, home of many windsurfing champions and host of international sailing events - in October 2015 the Techno 293 World windsurfing Championships will come to Poetto beach<br><br>http://www.windsurfingclubcagliari.org/ <br><br>http://techno293worlds-cagliari2015.org/"
+            "it": "<b>Windsurfing Club Cagliari</b><br>Scuola di vela, fabbrica di campioni e sede di eventi internazionali: ad ottobre 2015 ospiterà al Poetto i Campionati Mondiali della Classe Techno 293 di windsurf.<br><br>http://www.windsurfingclubcagliari.org/ <br><br><a href=\"http://techno293worlds-cagliari2015.org/\">http://techno293worlds-cagliari2015.org/</a>",
+            "en": "<b>Windsurfing Club Cagliari</b><br>Sailing school, home of many windsurfing champions and host of international sailing events - in October 2015 the Techno 293 World windsurfing Championships will come to Poetto beach<br><br>http://www.windsurfingclubcagliari.org/ <br><br><a href=\"http://techno293worlds-cagliari2015.org/\">http://techno293worlds-cagliari2015.org/</a>"
         },
         "detailImageURL":"http://www.poettoapp.com/images/poi/techno293.png",
         "objectId": 140
