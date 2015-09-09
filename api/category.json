@@ -238,5 +238,17 @@
         "iconURL": "http://www.poettoapp.com/images/mapIcons/ic_streetfood.png",
         "type": "service",
         "value": 524288
+    },
+    {
+        "name": "naustrip",
+        "hidden": false,
+        "desc":{
+            "it":"Eventi Naustrip",
+            "en":"Naustrip Events"
+        },
+        "objectId": 21,
+        "iconURL": "http://www.poettoapp.com/images/mapIcons/ic_naustrip.png",
+        "type": "event",
+        "value": 1048576
     }
 ]
