@@ -38,6 +38,7 @@
             "en": "Nightlife"
         },
         "background_color": "FFCCBB",
+        "text_color": "CCCC11",
         "icon_url": "",
         "sort_position": "1"
     }
