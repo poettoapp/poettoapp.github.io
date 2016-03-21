@@ -39,7 +39,7 @@
         "ratings":[{
             "provider" : "TripAdvisor",
             "score" : "4",
-            "scale" : "5"
+            "out_of" : "5"
         }],
         "feed":[{
             "source" : "Facebook",
