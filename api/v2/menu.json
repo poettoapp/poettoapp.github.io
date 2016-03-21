@@ -1,0 +1,44 @@
+[
+    {
+        "id": "where_to_eat",
+        "name": {
+            "it": "Mangiare",
+            "en": "Where to eat"
+        },
+        "background_color": "FFCCBB",
+        "icon_url": "",
+        "sort_position": "0",
+        "categories": [
+            {
+                "name": "kiosk",
+                "hidden": false,
+                "description": {
+                    "it": "Chiosco",
+                    "en": "Kiosk"
+                },
+                "icon_url": "http://www.poettoapp.com/images/mapIcons/ic_kiosk.png",
+                "value": 4
+            },
+            {
+                "name": "streetfood",
+                "hidden": false,
+                "description": {
+                    "it": "Cibo di strada",
+                    "en": "Street food"
+                },
+                "icon_url": "http://www.poettoapp.com/images/mapIcons/ic_streetfood.png",
+                "value": 524288
+            }
+        ]
+    },
+    {
+        "id": "nightlife",
+        "name": {
+            "it": "Vita notturna",
+            "en": "Nightlife"
+        },
+        "background_color": "FFCCBB",
+        "icon_url": "",
+        "sort_position": "1"
+    }
+]

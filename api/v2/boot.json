@@ -1,0 +1,25 @@
+{
+    "app_name": "PoettoApp",
+    "base_url": "http://www.poettoapp.com/api/v2",
+    "api_keys": {
+        "instagram": "3826a2ddd2454da1b9f6063bfe6566ed",
+        "google_maps": ""
+    },
+    "map_config": {
+        "top_left": {
+            "lat": "39",
+            "lon": "9"
+        },
+        "bottom_right": {
+            "lat": "39",
+            "lon": "9"
+        },
+        "zoom": "12"
+    },
+    "urls": {
+        "suggest": "http://goo.gl/forms/eR1kq5PfNe",
+        "about": "http://poettoapp.com/appviews/about.html",
+        "emergency": "http://poettoapp.com/appviews/emergency.html"
+    },
+    "data_version": "1458592730"
+}

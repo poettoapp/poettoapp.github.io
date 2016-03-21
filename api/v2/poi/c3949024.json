@@ -1,0 +1,81 @@
+{
+    "id": "c3949024",
+    "active": true,
+    "location": {
+        "latitude": "39",
+        "longitude": "9"
+    },
+    "name": "Baffo Turbo",
+    "categories": [
+        {
+            "name": "kiosk",
+            "hidden": false,
+            "description": {
+                "it": "Chiosco",
+                "en": "Kiosk"
+            },
+            "icon_url": "http://www.poettoapp.com/images/mapIcons/ic_kiosk.png",
+            "value": 4
+        },
+        {
+            "name": "streetfood",
+            "hidden": false,
+            "description": {
+                "it": "Cibo di strada",
+                "en": "Street food"
+            },
+            "icon_url": "http://www.poettoapp.com/images/mapIcons/ic_streetfood.png",
+            "value": 524288
+        }
+    ],
+    "services": [],
+    "social":{
+        "facebook" : "https://www.facebook.com/PoettoApp",
+        "twitter" : "https://www.twitter.com/PoettoApp",
+        "website" : "http://www.poettoapp.com",
+        "trip_advisor" : "https://www.tripadvisor.com/whatever"
+    },
+    "data":{
+        "ratings":[{
+            "provider" : "TripAdvisor",
+            "score" : "4",
+            "scale" : "5"
+        }],
+        "feed":[{
+            "source" : "Facebook",
+            "url" : "https://www.facebook.com/aPost/post/231233",
+            "content" : {
+                "it" : "Il testo del post",
+                "en" : "Post content was here"
+            },
+            "attachment_url" : "https://www.facebook.com/cdn/image.jpg",
+            "timestamp" : "1458592730"
+        }],
+        "events":[{
+            "name" : "Turbo event",
+            "description" : {
+                "it" : "Descrizione evento",
+                "en" : "Event description"
+            },
+            "url" : "https://www.facebook.com/event/32234234",
+            "source" : "Facebook"
+        }],
+        "menu" : {
+            "pdf_url" : "https://www.mymenu.com/menu.pdf",
+            "sections":[{
+                "name" : {
+                    "it" : "Primi",
+                    "en" : "Main course"
+                },
+                "items" : [{
+                    "name" : {
+                        "it" : "Pasta al sugo",
+                        "en" : "Pasta with tomato sauce"
+                    },
+                    "price" : "7.50",
+                    "currency" : "€"
+                }]
+            }]
+        }
+    }
+}
